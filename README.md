@@ -1,3 +1,11 @@
+# Please bear with me, the assignement will be completed and updated by Sunday 23rd evening, EAT.
+<br> <br><br><br><br><br><br><br><br><br>
+<br> <br><br><br><br><br><br><br><br><br>
+<br> <br><br><br><br><br><br><br><br><br>
+
+
+
+
 # Testing and Debugging MERN Applications
 
 This assignment focuses on implementing comprehensive testing strategies for a MERN stack application, including unit testing, integration testing, and end-to-end testing, along with debugging techniques.
